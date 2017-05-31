@@ -1,0 +1,47 @@
+    @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+    @import url('https://fonts.googleapis.com/css?family=Roboto');
+    @font-face {
+        font-family: Majesti-Banner-Book;
+        src: url(fonts/Majesti-Banner-Book.otf);
+    }
+
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(1,1,1,1);
+    backgrounda-caolor: #333;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+li {
+    float: right;
+    border: 1px solid red; 
+    box-sizing: border-box;
+}
+
+li a {
+    border: 1px solid green; 
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    backgrounda-caolor: #111;
+                    border-width: 0 0 2px 0;
+        border-color: rgba(63, 200, 255, 0.4);
+        border-style: solid;
+        outline-offset: 0px;
+}

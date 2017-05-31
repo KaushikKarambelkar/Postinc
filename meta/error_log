@@ -1,0 +1,134 @@
+[02-Feb-2017 06:30:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:30:50 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alca'@'localhost' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alca'@'localhost' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alca'@'localhost' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:31:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'Alca'@'localhost' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:32:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:33:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:33:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:33:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:34:22 UTC] PHP Notice:  Undefined variable: pasasword in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:34:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:34:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'alca'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:34:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:34:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:35:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:35:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:35:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:35:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'alca'@'ip-166-62-28-112.ip.secureserver.net' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:37:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:37:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 25
+[02-Feb-2017 06:37:54 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/alcatraz627/public_html/meta/test.php on line 27
+[02-Feb-2017 06:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alcatraz627/public_html/meta/test.php on line 27
+[02-Feb-2017 06:37:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 36
+[02-Feb-2017 06:38:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:38:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:38:47 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:38:47 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:38:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:38:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 37
+[02-Feb-2017 06:39:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:39:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:39:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:39:08 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 37
+[02-Feb-2017 06:39:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:39:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:39:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:39:22 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 37
+[02-Feb-2017 06:39:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:39:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:39:35 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:39:35 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:39:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 37
+[02-Feb-2017 06:39:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:39:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:39:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:40:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:40:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:40:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:40:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:40:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:40:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:40:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:40:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:40:36 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:41:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:41:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:41:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:41:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:41:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:41:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 28
+[02-Feb-2017 06:41:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:41:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:41:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:41:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:41:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:41:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:43:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:43:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:43:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:44:17 UTC] PHP Parse error:  syntax error, unexpected ''</i></td>' (T_ENCAPSED_AND_WHITESPACE) in /home/alcatraz627/public_html/meta/test.php on line 35
+[02-Feb-2017 06:44:17 UTC] PHP Parse error:  syntax error, unexpected ''</i></td>' (T_ENCAPSED_AND_WHITESPACE) in /home/alcatraz627/public_html/meta/test.php on line 35
+[02-Feb-2017 06:44:31 UTC] PHP Parse error:  syntax error, unexpected ''</i></td>;' (T_ENCAPSED_AND_WHITESPACE) in /home/alcatraz627/public_html/meta/test.php on line 35
+[02-Feb-2017 06:44:31 UTC] PHP Parse error:  syntax error, unexpected ''</i></td>;' (T_ENCAPSED_AND_WHITESPACE) in /home/alcatraz627/public_html/meta/test.php on line 35
+[02-Feb-2017 06:45:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 06:45:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 06:45:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 06:45:01 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 29
+[02-Feb-2017 17:55:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 17:55:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 24
+[02-Feb-2017 17:55:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 26
+[02-Feb-2017 17:55:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 29
+[02-Feb-2017 18:13:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 10
+[02-Feb-2017 18:15:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:15:29 UTC] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/alcatraz627/public_html/meta/test.php on line 18
+[02-Feb-2017 18:17:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:18:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:20:34 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/alcatraz627/public_html/meta/test.php on line 20
+[02-Feb-2017 18:20:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:21:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:21:49 UTC] PHP Notice:  Undefined variable: servernaame in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:21:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:21:58 UTC] PHP Notice:  Undefined variable: servernaame in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:21:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 11
+[02-Feb-2017 18:29:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:29:30 UTC] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'mysql.secureserver.net' (113) in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:29:30 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 68
+[02-Feb-2017 18:29:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:29:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'alcatraz627'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:29:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:32:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'alca'@'ip-166-62-28-112.ip.secureserver.net' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:32:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 68
+[02-Feb-2017 18:32:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'alcatraz627'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:32:53 UTC] PHP Warning:  mysql_connect(): Unknown MySQL server host '166.62.28.11aaa2' (0) in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:32:53 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 68
+[02-Feb-2017 18:32:53 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'alcatraz627'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:32:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:33:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:33:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'alca'@'ip-166-62-28-112.ip.secureserver.net' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 67
+[02-Feb-2017 18:33:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 68
+[02-Feb-2017 18:33:34 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:33:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'alcatraz627'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 74
+[02-Feb-2017 18:33:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alcatraz627/public_html/meta/test.php on line 74
+[03-Feb-2017 14:45:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 67
+[03-Feb-2017 14:45:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'alca'@'ip-166-62-28-112.ip.secureserver.net' (using password: YES) in /home/alcatraz627/public_html/meta/test.php on line 67
+[03-Feb-2017 14:45:15 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alcatraz627/public_html/meta/test.php on line 68
+[03-Feb-2017 14:45:15 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 74
+[03-Feb-2017 14:45:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'alcatraz627'@'localhost' (using password: NO) in /home/alcatraz627/public_html/meta/test.php on line 74
+[03-Feb-2017 14:45:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alcatraz627/public_html/meta/test.php on line 74
+[03-Feb-2017 14:54:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 72
+[03-Feb-2017 14:57:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alcatraz627/public_html/meta/test.php on line 72
+[04-Feb-2017 16:14:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/alcatraz627/public_html/meta/test.php on line 72
